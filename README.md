@@ -9,7 +9,7 @@ Mrinmoy Chakraborty
 This is a Node.js API project with features such as authentication, validation, and file uploads.
 
 ## Installation
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/themrinmoy/NodeJs_api.git`
 2. Navigate to the project directory: `cd nodejs_api`
 3. Install dependencies: `npm install`
 
